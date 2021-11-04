@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucaspaiva-g;
+ 👋 Olá, sou @lucaspaiva-g;
 - 👀  Estou interessado no desenvolvimento full stack;
 - 🌱 Atualmente esto  aprendendo programção web;
 - 💞️ Quero colaborar com o crescimento da empresa;
