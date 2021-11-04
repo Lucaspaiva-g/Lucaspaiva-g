@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lucaspaiva-g;
-- 👀 I’m interested in desenvolvimento full stack;
+- 👀  Estou interessado no desenvolvimento full stack;
 - 🌱 Atualmente esto  aprendendo programção web;
 - 💞️ Quero colaborar com o crescimento da empresa;
 - 📫  Sou de Goiânia - Go.
